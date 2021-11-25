@@ -700,8 +700,8 @@ h3 {
   color: var(--alternative-text-color);
 }
 
-.gallery-item:hover .gallery-item-overlay,
-.gallery-item:focus .gallery-item-overlay {
+.gallery-item-link:hover .gallery-item-overlay,
+.gallery-item-link:focus .gallery-item-overlay {
   transform: translateY(0);
 }
 
